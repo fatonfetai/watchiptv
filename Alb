@@ -1,93 +1,627 @@
-#EXTINF:-M3U
-#EXTINF:- 1,Tring Action
-http://95.107.132.104/out/u/12_1.m3u8
-#EXTINF:- 1,Tring life 
-http://95.107.132.104/out/u/25_1.m3u8
-#EXTINF:- 1,Tring shqip
-http://95.107.132.104/out/u/18_1.m3u8
-#EXTINF:- 1,Tring 3+ 
-http://95.107.132.104/out/u/31_1.m3u8
-#EXTINF:- 1,Tring internacional http://95.107.132.104/out/u/236_1.m3u8
-#EXTINF:- 1 Tring super
-http://95.107.132.104/out/u/241_1.m3u8
-#EXTINF:- 1,Tring fantasi http://95.107.132.104/out/u/304_1.m3u8
-#EXTINF:- 1,Tring komedi http://95.107.132.104/out/u/310_1.m3u8
-#EXTINF:- 1,Tring jolly 
-http://95.107.132.104/out/u/321_1.m3u8
-#EXTINF:- 1,Tring kids 
-http://95.107.132.104/out/u/339_1.m3u8
-#EXTINF:- 1,Tring tring 
-http://95.107.132.104/out/u/353_1.m3u8
-#EXTINF:- 1,Tip tv 
-http://95.107.132.104/out/u/358_1.m3u8
-#EXTINF:- 1,Tring smile 
-http://95.107.132.104/out/u/349_1.m3u8
-#EXTINF:- 1,Tring histori http://95.107.132.104/out/u/362_1.m3u8
-#EXTINF:- 1,Tring planet http://95.107.132.104/out/u/367_1.m3u8
-#EXTINF:- 1,Tring world
-http://95.107.132.104/out/u/409_1.m3u8
-#EXTINF:- 1,Tring muse 
-http://95.107.132.104/out/u/403_1.m3u8
-#EXTINF:- 1,Tring living http://95.107.132.106/out/u/545_1.m3u8
-#EXTINF:- 1,Vizion plus
-http://95.107.132.104/out/u/642_1.m3u8
-#EXTINF:- 1,7 news
-http://95.107.132.104/out/u/332_1.m3u8
-#EXTINF:- 1,Tring sport news http://95.107.132.106/out/u/418_2.m3u8
-#EXTINF:- 1,Tring sport 1 http://95.107.132.106/out/u/618_1.m3u8
-#EXTINF:- 1,Tring sport 2 http://95.107.132.106/out/u/602_1.m3u8
-#EXTINF:- 1,Tring sport 4 http://95.107.132.104/out/u/655_1.m3u8
-#EXTINF:- 1,Klan kosova 
-http://95.107.132.104/out/u/400_1.m3u8
-#EXTINF:- 1,RTK 1 
-http://95.107.132.104/out/u/327_1.m3u8
-#EXTINF:- 1,RTK 2 
-http://95.107.132.104/out/u/331_1.m3u8
-#EXTINF:- 1,Fax news
-http://95.107.132.104/out/u/228_1.m3u8
-#EXTINF:- 1,News shqip 
-http://95.107.132.106/out/u/321_2.m3u8
-#EXTINF:- 1,TNT 
-http://95.107.132.106/out/u/363_1.m3u8
-#EXTINF:- 1,RTV 21 
-http://95.107.132.106/out/u/330_1.m3u8
-#EXTINF:- 1,Zjarr hd 
-http://95.107.132.106/out/u/420_1.m3u8
-#EXTINF:- 1,BBF
-http://95.107.132.106/out/u/425_1.m3u8
-#EXTINF:- 1,Apollon tv
-http://95.107.132.106/out/u/328_2.m3u8
-#EXTINF:- 1,Euro film 
-http://95.107.132.106/out/u/356_1.m3u8
-#EXTINF:- 1,RTSH SPORT 
-http://95.107.132.106/out/u/362_2.m3u8
-#EXTINF:- 1,RTSH
-http://95.107.132.106/out/u/551_2.m3u8
-#EXTINF:- 1,Adria net
-http://95.107.132.106/out/u/370_2.m3u8
-#EXTINF:- 1,KTV
-http://95.107.132.104/out/u/38_1.m3u8
-#EXTINF:- 1,Folk tv
-http://95.107.132.104/out/u/44_1.m3u8
-#EXTINF:- 1,Albfilm 
-http://95.107.132.104/out/u/143_1.m3u8
-#EXTINF:- 1,Elrodi 
-http://95.107.132.104/out/u/155_1.m3u8
-#EXTINF:- 1,Tirana 1 
-http://95.107.132.104/out/u/163_1.m3u8
-#EXTINF:- 1,Rrokum tv  
-http://95.107.132.104/out/u/188_1.m3u8
-#EXTINF:- 1,Tema tv 
-http://95.107.132.104/out/u/216_1.m3u8
-#EXTINF:- 1,Click tv 
-http://95.107.132.104/out/u/413_1.m3u8
-#EXTINF:- 1,Jug tv 
-http://95.107.132.104/out/u/429_1.m3u8
-#EXTINF:- 1,Channel one 
-http://95.107.132.104/out/u/431_1.m3u8
-#EXTINF:- 1,Fox
-http://95.107.132.104/out/u/372_1.m3u8
-#EXTINF:- 1,Fox crime 
-http://95.107.132.104/out/u/391_1.m3u8
-#EXTINF:- 1,Fox life 
-http://95.107.132.104/out/u/377_1.m3u8
+#EXTM3U
+#EXTINF:-1,Al- ABC News 24/7
+http://194.88.107.101:6204/live/jian/jian/9128.ts
+#EXTINF:-1,Al- Bang Bang
+http://194.88.107.101:6204/live/jian/jian/9127.ts
+#EXTINF:-1,Al- BBF Music TV
+http://194.88.107.101:6204/live/jian/jian/9126.ts
+#EXTINF:-1,Al- Cufo
+http://194.88.107.101:6204/live/jian/jian/9125.ts
+#EXTINF:-1,Al- Digi Gold
+http://194.88.107.101:6204/live/jian/jian/9124.ts
+#EXTINF:-1,Al- Eurosport 2 HD
+http://194.88.107.101:6204/live/jian/jian/9123.ts
+#EXTINF:-1,Al- Explorer History
+http://194.88.107.101:6204/live/jian/jian/9122.ts
+#EXTINF:-1,Al- Explorer Shkence
+http://194.88.107.101:6204/live/jian/jian/9121.ts
+#EXTINF:-1,Al- ExplorerNatyra
+http://194.88.107.101:6204/live/jian/jian/9120.ts
+#EXTINF:-1,Al- Film Aksion
+http://194.88.107.101:6204/live/jian/jian/9119.ts
+#EXTINF:-1,Al- Film Autor
+http://194.88.107.101:6204/live/jian/jian/9118.ts
+#EXTINF:-1,Al- Film Drama
+http://194.88.107.101:6204/live/jian/jian/9117.ts
+#EXTINF:-1,Al- Film DY HD
+http://194.88.107.101:6204/live/jian/jian/9116.ts
+#EXTINF:-1,Al- Film Gold 1
+http://194.88.107.101:6204/live/jian/jian/9115.ts
+#EXTINF:-1,Al- Film Hits
+http://194.88.107.101:6204/live/jian/jian/9114.ts
+#EXTINF:-1,Al- Film Komedi
+http://194.88.107.101:6204/live/jian/jian/9113.ts
+#EXTINF:-1,Al- Film NJE HD
+http://194.88.107.101:6204/live/jian/jian/9112.ts
+#EXTINF:-1,Al- Film Thriller
+http://194.88.107.101:6204/live/jian/jian/9111.ts
+#EXTINF:-1,Al- Folk Plus
+http://194.88.107.101:6204/live/jian/jian/9110.ts
+#EXTINF:-1,Al- Folklorit
+http://194.88.107.101:6204/live/jian/jian/9109.ts
+#EXTINF:-1,Al- Fox
+http://194.88.107.101:6204/live/jian/jian/9108.ts
+#EXTINF:-1,Al- Fox Crime
+http://194.88.107.101:6204/live/jian/jian/9107.ts
+#EXTINF:-1,Al- Fox Life
+http://194.88.107.101:6204/live/jian/jian/9106.ts
+#EXTINF:-1,Al- Fox Movies
+http://194.88.107.101:6204/live/jian/jian/9105.ts
+#EXTINF:-1,Al- Jolly HD
+http://194.88.107.101:6204/live/jian/jian/9104.ts
+#EXTINF:-1,Al- Kino Aksion
+http://194.88.107.101:6204/live/jian/jian/9103.ts
+#EXTINF:-1,Al- Klan
+http://194.88.107.101:6204/live/jian/jian/9102.ts
+#EXTINF:-1,Al- Klan HD
+http://194.88.107.101:6204/live/jian/jian/9101.ts
+#EXTINF:-1,Al- KTV
+http://194.88.107.101:6204/live/jian/jian/9100.ts
+#EXTINF:-1,Al- Living HD
+http://194.88.107.101:6204/live/jian/jian/9099.ts
+#EXTINF:-1,Al- My Music
+http://194.88.107.101:6204/live/jian/jian/9098.ts
+#EXTINF:-1,Al- News 24
+http://194.88.107.101:6204/live/jian/jian/9097.ts
+#EXTINF:-1,Al- RTK 3
+http://194.88.107.101:6204/live/jian/jian/9096.ts
+#EXTINF:-1,Al- RTK 4
+http://194.88.107.101:6204/live/jian/jian/9095.ts
+#EXTINF:-1,Al- RTV 21
+http://194.88.107.101:6204/live/jian/jian/9094.ts
+#EXTINF:-1,Al- RTV 21 HD
+http://194.88.107.101:6204/live/jian/jian/9093.ts
+#EXTINF:-1,Al- RTV 21 HD Junior
+http://194.88.107.101:6204/live/jian/jian/9092.ts
+#EXTINF:-1,Al- RTV 21 HD Plus
+http://194.88.107.101:6204/live/jian/jian/9091.ts
+#EXTINF:-1,Al- RTV 21 HD Popullore
+http://194.88.107.101:6204/live/jian/jian/9090.ts
+#EXTINF:-1,Al- Super Sport 1 HD
+http://194.88.107.101:6204/live/jian/jian/9088.ts
+#EXTINF:-1,Al- Super Sport 2 HD
+http://194.88.107.101:6204/live/jian/jian/9087.ts
+#EXTINF:-1,Al- Super Sport 3 HD
+http://194.88.107.101:6204/live/jian/jian/9086.ts
+#EXTINF:-1,Al- Super Sport 4
+http://194.88.107.101:6204/live/jian/jian/9085.ts
+#EXTINF:-1,Al- SuperFolk
+http://194.88.107.101:6204/live/jian/jian/9084.ts
+#EXTINF:-1,Al- Supersonic TV 1
+http://194.88.107.101:6204/live/jian/jian/9083.ts
+#EXTINF:-1,Al- T  HD
+http://194.88.107.101:6204/live/jian/jian/9082.ts
+#EXTINF:-1,Al- TiranaTV
+http://194.88.107.101:6204/live/jian/jian/9081.ts
+#EXTINF:-1,Al- Top Channel HD
+http://194.88.107.101:6204/live/jian/jian/9080.ts
+#EXTINF:-1,Al- Top News
+http://194.88.107.101:6204/live/jian/jian/9079.ts
+#EXTINF:-1,Al- TV Koha
+http://194.88.107.101:6204/live/jian/jian/9063.ts
+#EXTINF:-1,Al- TVSH
+http://194.88.107.101:6204/live/jian/jian/9062.ts
+#EXTINF:-1,Al- Vizion Plus
+http://194.88.107.101:6204/live/jian/jian/9061.ts
+#EXTINF:-1,ABC NEWS
+http://196.234.81.22:25461/live/germane/germane/4018.ts
+#EXTINF:-1,Top Channel
+http://196.234.81.22:25461/live/germane/germane/10496.ts
+#EXTINF:-1,Vizion Plus
+http://196.234.81.22:25461/live/germane/germane/10497.ts
+#EXTINF:-1,Digi Gold 1
+http://196.234.81.22:25461/live/germane/germane/4079.ts
+#EXTINF:-1,Digi Gold 2
+http://196.234.81.22:25461/live/germane/germane/4078.ts
+#EXTINF:-1,Digi Gold 3
+http://196.234.81.22:25461/live/germane/germane/4077.ts
+#EXTINF:-1,Digi Gold 4
+http://196.234.81.22:25461/live/germane/germane/4076.ts
+#EXTINF:-1,DM SAT
+http://196.234.81.22:25461/live/germane/germane/4016.ts
+#EXTINF:-1,Film Aksion
+http://196.234.81.22:25461/live/germane/germane/4053.ts
+#EXTINF:-1,Film Autor
+http://196.234.81.22:25461/live/germane/germane/4052.ts
+#EXTINF:-1,Film Drame
+http://196.234.81.22:25461/live/germane/germane/4051.ts
+#EXTINF:-1,Film DY HD
+http://196.234.81.22:25461/live/germane/germane/4050.ts
+#EXTINF:-1,Film Hits
+http://196.234.81.22:25461/live/germane/germane/4055.ts
+#EXTINF:-1,Film Komedi
+http://196.234.81.22:25461/live/germane/germane/4054.ts
+#EXTINF:-1,Film Stinet
+http://196.234.81.22:25461/live/germane/germane/4048.ts
+#EXTINF:-1,Film Nje HD
+http://196.234.81.22:25461/live/germane/germane/4056.ts
+#EXTINF:-1,Film Thriller
+http://196.234.81.22:25461/live/germane/germane/4057.ts
+#EXTINF:-1,Grand TV
+http://196.234.81.22:25461/live/germane/germane/4015.ts
+#EXTINF:-1,TV Klan HD
+http://196.234.81.22:25461/live/germane/germane/4029.ts
+#EXTINF:-1,CUFO
+http://196.234.81.22:25461/live/germane/germane/4026.ts
+#EXTINF:-1,Tring 3
+http://196.234.81.22:25461/live/germane/germane/4061.ts
+#EXTINF:-1,Tring Fantasy
+http://196.234.81.22:25461/live/germane/germane/4060.ts
+#EXTINF:-1,Tring Life
+http://196.234.81.22:25461/live/germane/germane/4059.ts
+#EXTINF:-1,Tring Max
+http://196.234.81.22:25461/live/germane/germane/4058.ts
+#EXTINF:-1,Tring Shqip
+http://196.234.81.22:25461/live/germane/germane/4062.ts
+#EXTINF:-1,Tring History
+http://196.234.81.22:25461/live/germane/germane/4064.ts
+#EXTINF:-1,Tring Tring
+http://196.234.81.22:25461/live/germane/germane/4068.ts
+#EXTINF:-1,Tring Planet
+http://196.234.81.22:25461/live/germane/germane/4065.ts
+#EXTINF:-1,Tring Smile
+http://196.234.81.22:25461/live/germane/germane/4066.ts
+#EXTINF:-1,Tring Super
+http://196.234.81.22:25461/live/germane/germane/4063.ts
+#EXTINF:-1,Tring Sport News HD
+http://196.234.81.22:25461/live/germane/germane/4069.ts
+#EXTINF:-1,RTK 1
+http://196.234.81.22:25461/live/germane/germane/4032.ts
+#EXTINF:-1,RTK 2
+http://196.234.81.22:25461/live/germane/germane/4031.ts
+#EXTINF:-1,RTSH3
+http://196.234.81.22:25461/live/germane/germane/4023.ts
+#EXTINF:-1,RTV 21
+http://196.234.81.22:25461/live/germane/germane/4021.ts
+#EXTINF:-1,RTK 1 AL
+http://80.82.65.169:8080/Mika1/Mika/168
+#EXTINF:-1,RTK 1 HD AL
+http://80.82.65.169:8080/Mika1/Mika/5808
+#EXTINF:-1,RTK 1 (BackUP) AL
+http://80.82.65.169:8080/Mika1/Mika/5809
+#EXTINF:-1,RTK 2 AL
+http://80.82.65.169:8080/Mika1/Mika/167
+#EXTINF:-1,RTK 2 (BackUP) AL
+http://80.82.65.169:8080/Mika1/Mika/5810
+#EXTINF:-1,RTK 3 AL
+http://80.82.65.169:8080/Mika1/Mika/166
+#EXTINF:-1,RTK 3 (BackUP) AL
+http://80.82.65.169:8080/Mika1/Mika/5811
+#EXTINF:-1,RTK 4 AL
+http://80.82.65.169:8080/Mika1/Mika/165
+#EXTINF:-1,RTK 4 (BackUP) AL
+http://80.82.65.169:8080/Mika1/Mika/5812
+#EXTINF:-1,RTK Serial HD AL
+http://80.82.65.169:8080/Mika1/Mika/12400
+#EXTINF:-1,RTSH 1 HD AL
+http://80.82.65.169:8080/Mika1/Mika/5582
+#EXTINF:-1,RTSH 2 HD AL
+http://80.82.65.169:8080/Mika1/Mika/5581
+#EXTINF:-1,RTSH 3 HD AL
+http://80.82.65.169:8080/Mika1/Mika/5580
+#EXTINF:-1,RTSH ART HD AL
+http://80.82.65.169:8080/Mika1/Mika/157
+#EXTINF:-1,RTSH Film HD AL
+http://80.82.65.169:8080/Mika1/Mika/5579
+#EXTINF:-1,RTSH Gjirokastra AL
+http://80.82.65.169:8080/Mika1/Mika/2134
+#EXTINF:-1,RTSH Korca HD AL
+http://80.82.65.169:8080/Mika1/Mika/2136
+#EXTINF:-1,KTV FHD AL
+http://80.82.65.169:8080/Mika1/Mika/5700
+#EXTINF:-1,KTV HD AL
+http://80.82.65.169:8080/Mika1/Mika/2151
+#EXTINF:-1,TV Dukagjini HD AL
+http://80.82.65.169:8080/Mika1/Mika/138
+#EXTINF:-1,TV Rrokum AL
+http://80.82.65.169:8080/Mika1/Mika/140
+#EXTINF:-1,RTV21 AL
+http://80.82.65.169:8080/Mika1/Mika/164
+#EXTINF:-1,RTV21 (BackUP) AL
+http://80.82.65.169:8080/Mika1/Mika/5813
+#EXTINF:-1,RTV21 Junior AL
+http://80.82.65.169:8080/Mika1/Mika/159
+#EXTINF:-1,RTV21 Newsbiz AL
+http://80.82.65.169:8080/Mika1/Mika/2145
+#EXTINF:-1,RTV21 Plus AL
+http://80.82.65.169:8080/Mika1/Mika/163
+#EXTINF:-1,RTV21 Popullore AL
+http://80.82.65.169:8080/Mika1/Mika/162
+#EXTINF:-1,RTV21 Maqedonia AL
+http://80.82.65.169:8080/Mika1/Mika/160
+#EXTINF:-1,RTV21 Mix AL
+http://80.82.65.169:8080/Mika1/Mika/161
+#EXTINF:-1,RTV21 Toksor AL
+http://80.82.65.169:8080/Mika1/Mika/5491
+#EXTINF:-1,RTV Islam AL
+http://80.82.65.169:8080/Mika1/Mika/5252
+#EXTINF:-1,RTV Iliria HD AL
+http://80.82.65.169:8080/Mika1/Mika/7121
+#EXTINF:-1,RTV Pendimi
+http://80.82.65.169:8080/Mika1/Mika/13039
+#EXTINF:-1,RTV Deshira HD AL
+http://80.82.65.169:8080/Mika1/Mika/13736
+#EXTINF:-1,Klan HD AL
+http://80.82.65.169:8080/Mika1/Mika/172
+#EXTINF:-1,Klan TV AL
+http://80.82.65.169:8080/Mika1/Mika/171
+#EXTINF:-1,Klan Kosova AL
+http://80.82.65.169:8080/Mika1/Mika/124
+#EXTINF:-1,Klan Plus AL
+http://80.82.65.169:8080/Mika1/Mika/6423
+#EXTINF:-1,Klan Plus HD AL
+http://80.82.65.169:8080/Mika1/Mika/170
+#EXTINF:-1,Klan Kosova HD AL
+http://80.82.65.169:8080/Mika1/Mika/2150
+#EXTINF:-1,Klan Shop AL
+http://80.82.65.169:8080/Mika1/Mika/5583
+#EXTINF:-1,Alsat M AL
+http://80.82.65.169:8080/Mika1/Mika/155
+#EXTINF:-1,Alsat M HD AL
+http://80.82.65.169:8080/Mika1/Mika/2152
+#EXTINF:-1,Top Channel AL
+http://80.82.65.169:8080/Mika1/Mika/173
+#EXTINF:-1,Top Channel HD AL
+http://80.82.65.169:8080/Mika1/Mika/2154
+#EXTINF:-1,T HD AL
+http://80.82.65.169:8080/Mika1/Mika/2153
+#EXTINF:-1,T7 AL
+http://80.82.65.169:8080/Mika1/Mika/13185
+#EXTINF:-1,T7 HD AL
+http://80.82.65.169:8080/Mika1/Mika/13186
+#EXTINF:-1,TVSH HD AL
+http://80.82.65.169:8080/Mika1/Mika/158
+#EXTINF:-1,Syri Blue FHD AL
+http://80.82.65.169:8080/Mika1/Mika/5546
+#EXTINF:-1,Cufo TV AL
+http://80.82.65.169:8080/Mika1/Mika/2123
+#EXTINF:-1,Alb Action AL
+http://80.82.65.169:8080/Mika1/Mika/2132
+#EXTINF:-1,Alb Anime AL
+http://80.82.65.169:8080/Mika1/Mika/2131
+#EXTINF:-1,Alb Comedy AL
+http://80.82.65.169:8080/Mika1/Mika/2130
+#EXTINF:-1,Alb Folk AL
+http://80.82.65.169:8080/Mika1/Mika/143
+#EXTINF:-1,Alb Hindi AL
+http://80.82.65.169:8080/Mika1/Mika/2110
+#EXTINF:-1,Alb Hits AL
+http://80.82.65.169:8080/Mika1/Mika/5553
+#EXTINF:-1,Alb Islam AL
+http://80.82.65.169:8080/Mika1/Mika/5248
+#EXTINF:-1,Alb Movie HD AL
+http://80.82.65.169:8080/Mika1/Mika/5313
+#EXTINF:-1,Alb Music HD AL
+http://80.82.65.169:8080/Mika1/Mika/2098
+#EXTINF:-1,Alb Popullore AL
+http://80.82.65.169:8080/Mika1/Mika/2097
+#EXTINF:-1,Alb Western HD AL
+http://80.82.65.169:8080/Mika1/Mika/2126
+#EXTINF:-1,Dasma TV AL
+http://80.82.65.169:8080/Mika1/Mika/2138
+#EXTINF:-1,Super Sonic AL
+http://80.82.65.169:8080/Mika1/Mika/114
+#EXTINF:-1,Folklorit TV AL
+http://80.82.65.169:8080/Mika1/Mika/5519
+#EXTINF:-1,Travel Channel AL
+http://80.82.65.169:8080/Mika1/Mika/5545
+#EXTINF:-1,Folk Plus AL
+http://80.82.65.169:8080/Mika1/Mika/5520
+#EXTINF:-1,Turbo Channel TV AL
+http://80.82.65.169:8080/Mika1/Mika/5523
+#EXTINF:-1,BBF Musik AL
+http://80.82.65.169:8080/Mika1/Mika/2133
+#EXTINF:-1,TV Opoja AL
+http://80.82.65.169:8080/Mika1/Mika/2139
+#EXTINF:-1,TV Zjarr AL
+http://80.82.65.169:8080/Mika1/Mika/152
+#EXTINF:-1,ON TV AL
+http://80.82.65.169:8080/Mika1/Mika/5535
+#EXTINF:-1,TV Besa Prizren AL
+http://80.82.65.169:8080/Mika1/Mika/5541
+#EXTINF:-1,Shenja TV AL
+http://80.82.65.169:8080/Mika1/Mika/2116
+#EXTINF:-1,Fox HD AL
+http://80.82.65.169:8080/Mika1/Mika/5577
+#EXTINF:-1,Fox Life AL
+http://80.82.65.169:8080/Mika1/Mika/5576
+#EXTINF:-1,Tema TV AL
+http://80.82.65.169:8080/Mika1/Mika/5243
+#EXTINF:-1,TV Sharri AL
+http://80.82.65.169:8080/Mika1/Mika/2113
+#EXTINF:-1,TV Rozafa AL
+http://80.82.65.169:8080/Mika1/Mika/3709
+#EXTINF:-1,Medina TV AL
+http://80.82.65.169:8080/Mika1/Mika/5245
+#EXTINF:-1,Mekke TV AL
+http://80.82.65.169:8080/Mika1/Mika/5246
+#EXTINF:-1,TV 2 Gostivar AL
+http://80.82.65.169:8080/Mika1/Mika/2099
+#EXTINF:-1,Tribuna TV AL
+http://80.82.65.169:8080/Mika1/Mika/5526
+#EXTINF:-1,Tetova TV AL
+http://80.82.65.169:8080/Mika1/Mika/2107
+#EXTINF:-1,Star+ Shkodra AL
+http://80.82.65.169:8080/Mika1/Mika/3705
+#EXTINF:-1,Zana Islam HD AL
+http://80.82.65.169:8080/Mika1/Mika/5251
+#EXTINF:-1,MRT 1 AL
+http://80.82.65.169:8080/Mika1/Mika/2147
+#EXTINF:-1,MRT 2 AL
+http://80.82.65.169:8080/Mika1/Mika/2146
+#EXTINF:-1,JUG TV AL
+http://80.82.65.169:8080/Mika1/Mika/3707
+#EXTINF:-1,GlobiTV AL
+http://80.82.65.169:8080/Mika1/Mika/3712
+#EXTINF:-1,Channel One HD AL
+http://80.82.65.169:8080/Mika1/Mika/126
+#EXTINF:-1,Living HD AL
+http://80.82.65.169:8080/Mika1/Mika/128
+#EXTINF:-1,Apollon AL
+http://80.82.65.169:8080/Mika1/Mika/5315
+#EXTINF:-1,Top News AL
+http://80.82.65.169:8080/Mika1/Mika/2144
+#EXTINF:-1,ABC News AL
+http://80.82.65.169:8080/Mika1/Mika/118
+#EXTINF:-1,News 24 AL
+http://80.82.65.169:8080/Mika1/Mika/2142
+#EXTINF:-1,News 24 HD AL
+http://80.82.65.169:8080/Mika1/Mika/2141
+#EXTINF:-1,Ora News HD AL
+http://80.82.65.169:8080/Mika1/Mika/119
+#EXTINF:-1,Tip TV AL
+http://80.82.65.169:8080/Mika1/Mika/5515
+#EXTINF:-1,Lexo TV AL
+http://80.82.65.169:8080/Mika1/Mika/2149
+#EXTINF:-1,Peace TV AL
+http://80.82.65.169:8080/Mika1/Mika/2148
+#EXTINF:-1,Muse AL
+http://80.82.65.169:8080/Mika1/Mika/129
+#EXTINF:-1,Nat Geo AL
+http://80.82.65.169:8080/Mika1/Mika/5544
+#EXTINF:-1,Fox Crime AL
+http://80.82.65.169:8080/Mika1/Mika/5575
+#EXTINF:-1,Baby TV AL
+http://80.82.65.169:8080/Mika1/Mika/5533
+#EXTINF:-1,1 First Kosova AL
+http://80.82.65.169:8080/Mika1/Mika/2118
+#EXTINF:-1,Music AL
+http://80.82.65.169:8080/Mika1/Mika/115
+#EXTINF:-1,Sofia TV AL
+http://80.82.65.169:8080/Mika1/Mika/5514
+#EXTINF:-1,Digi Gold AL
+http://80.82.65.169:8080/Mika1/Mika/687
+#EXTINF:-1,Klan Kosova
+http://196.234.81.22:25461/live/germane/germane/4025.ts
+#EXTINF:-1,Kosova Sport 2
+http://196.234.81.22:25461/live/germane/germane/4070.ts
+#EXTINF:-1,Kosova Sport1
+http://196.234.81.22:25461/live/germane/germane/4071.ts
+#EXTINF:-1,Pink EX
+http://196.234.81.22:25461/live/germane/germane/4047.ts
+#EXTINF:-1,PINK 2
+http://196.234.81.22:25461/live/germane/germane/4046.ts
+#EXTINF:-1,PINK 3
+http://196.234.81.22:25461/live/germane/germane/4045.ts
+#EXTINF:-1,PINK ACTION
+http://196.234.81.22:25461/live/germane/germane/4043.ts
+#EXTINF:-1,PINK COMEDY
+http://196.234.81.22:25461/live/germane/germane/4041.ts
+#EXTINF:-1,PINK EXTRA.
+http://196.234.81.22:25461/live/germane/germane/4037.ts
+#EXTINF:-1,Pink Film
+http://196.234.81.22:25461/live/germane/germane/4040.ts
+#EXTINF:-1,PINK FOLK
+http://196.234.81.22:25461/live/germane/germane/4039.ts
+#EXTINF:-1,Pink Folk 2
+http://196.234.81.22:25461/live/germane/germane/4013.ts
+#EXTINF:-1,PINK HORHOR
+http://196.234.81.22:25461/live/germane/germane/4038.ts
+#EXTINF:-1,PINK SCI-FI&FANTASY
+http://196.234.81.22:25461/live/germane/germane/4035.ts
+#EXTINF:-1,PINK PREMIUM
+http://196.234.81.22:25461/live/germane/germane/4034.ts
+#EXTINF:-1,PINK WORLD
+http://196.234.81.22:25461/live/germane/germane/4036.ts
+#EXTINF:-1,Pink Thriller
+http://196.234.81.22:25461/live/germane/germane/4033.ts
+#EXTINF:-1,PINK WESTERN
+http://196.234.81.22:25461/live/germane/germane/4044.ts
+#EXTINF:-1,Al Jazeera Balkans ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2331
+#EXTINF:-1,Aljazeera Balkans BH FHD ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4568
+#EXTINF:-1,Sandzak TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4187
+#EXTINF:-1,Televizija 5 BH ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4017
+#EXTINF:-1,BH TV BH ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4565
+#EXTINF:-1,BHT 1 HD ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/192
+#EXTINF:-1,Agro TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9048
+#EXTINF:-1,OBN ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2333
+#EXTINF:-1,BN Sat ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2342
+#EXTINF:-1,BN TV BH ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4564
+#EXTINF:-1,RTRS ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/220
+#EXTINF:-1,FTV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4185
+#EXTINF:-1,Face TV BH ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4015
+#EXTINF:-1,Federalna ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2344
+#EXTINF:-1,Islam Channel BH ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4570
+#EXTINF:-1,MTV Igman ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4186
+#EXTINF:-1,TV Sarajevo BH ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4018
+#EXTINF:-1,TV Sehara HD ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/188
+#EXTINF:-1,Bosna TV 1 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/193
+#EXTINF:-1,Glas Drine BH ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4016
+#EXTINF:-1,USK BH ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4563
+#EXTINF:-1,RTV Slon ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/222
+#EXTINF:-1,N1 Bosna ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2341
+#EXTINF:-1,Kino TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9032
+#EXTINF:-1,TV 1 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2332
+#EXTINF:-1,HRT 1 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/201
+#EXTINF:-1,HRT 2 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/202
+#EXTINF:-1,HRT 3 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/203
+#EXTINF:-1,HRT 4 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/204
+#EXTINF:-1,RTL 1 HR ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/217
+#EXTINF:-1,RTL 2 HR ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/216
+#EXTINF:-1,RTL Crime ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/184
+#EXTINF:-1,Fox TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2318
+#EXTINF:-1,Fox Life ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2320
+#EXTINF:-1,Fox Crime ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2321
+#EXTINF:-1,Fox Movies ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2319
+#EXTINF:-1,Z1 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/3837
+#EXTINF:-1,RTL Living ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/219
+#EXTINF:-1,RTL Passion ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/185
+#EXTINF:-1,Doma TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/195
+#EXTINF:-1,Nova TV HD ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9039
+#EXTINF:-1,Nova World ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9038
+#EXTINF:-1,Nova ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/3838
+#EXTINF:-1,Diva TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9033
+#EXTINF:-1,RTS 1 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/187
+#EXTINF:-1,RTS 1 HD ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2346
+#EXTINF:-1,RTS 2 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/186
+#EXTINF:-1,RTS 3 SRB ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4024
+#EXTINF:-1,RTS Satelit ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/221
+#EXTINF:-1,Prva 1 SRB ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/212
+#EXTINF:-1,Nova RS SRB ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/210
+#EXTINF:-1,RTV 1 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9062
+#EXTINF:-1,RTV 2 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9061
+#EXTINF:-1,TV Kraljevo ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9051
+#EXTINF:-1,B 92 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2345
+#EXTINF:-1,O2.TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9067
+#EXTINF:-1,Duga TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/3839
+#EXTINF:-1,TV ISTOK 1 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9046
+#EXTINF:-1,TV ISTOK 2 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/13948
+#EXTINF:-1,RTV Vojvodina SRB ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4019
+#EXTINF:-1,RTV Pazar ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9059
+#EXTINF:-1,RTV MLAVA ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9043
+#EXTINF:-1,TLC SRB ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/223
+#EXTINF:-1,TV Hram ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9047
+#EXTINF:-1,TV KLADOVO ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9044
+#EXTINF:-1,Prva Max ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/181
+#EXTINF:-1,Prva Plus SRB ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/213
+#EXTINF:-1,Novi Pazar SRB ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4021
+#EXTINF:-1,AXN SRB ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4020
+#EXTINF:-1,Srpska Naucna Televizija ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9054
+#EXTINF:-1,Prva World ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/182
+#EXTINF:-1,KCN 1 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/205
+#EXTINF:-1,KCN 2 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/206
+#EXTINF:-1,KCN 3 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/207
+#EXTINF:-1,Klasik TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2335
+#EXTINF:-1,Palma Plus ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9060
+#EXTINF:-1,Studio B ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/5623
+#EXTINF:-1,SOS Kanal SRB ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/4011
+#EXTINF:-1,RTCG 1 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/183
+#EXTINF:-1,RTCG 2 ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/214
+#EXTINF:-1,RTCG Sat ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/215
+#EXTINF:-1,TV Vijesti CG ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9042
+#EXTINF:-1,TV 777 Podgorica ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9041
+#EXTINF:-1,Happy TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2326
+#EXTINF:-1,Hayat BIH ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2337
+#EXTINF:-1,Hayat Folk ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/178
+#EXTINF:-1,Hayat Music ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/198
+#EXTINF:-1,Hayat Plus ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/179
+#EXTINF:-1,Hayat ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/197
+#EXTINF:-1,Parovi 1 Live ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9064
+#EXTINF:-1,Parovi 2 Live ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/9063
+#EXTINF:-1,Parovi Uzivo ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/180
+#EXTINF:-1,Baby TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2327
+#EXTINF:-1,RTL Kockica ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/218
+#EXTINF:-1,Orlando Kids ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/211
+#EXTINF:-1,Hayatovci ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2329
+#EXTINF:-1,Mini Ultra TV ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2328
+#EXTINF:-1,Nickelodeon ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/2330
+#EXTINF:-1,Tom And Jerry HD ex-Yu
+http://80.82.65.169:8080/Mika1/Mika/10559
